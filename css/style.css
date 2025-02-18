@@ -10,3 +10,15 @@ h3{
 li{
     color: ;
 }
+
+img{
+    height: 100px;
+    width: 100px;
+    border-radius:50%;
+}
+
+ul>li{
+    color: purple;
+    list-style-type: square;
+}
+
